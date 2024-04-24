@@ -1,2 +1,6 @@
 This is a new master file
+<<<<<<< HEAD
 I am updating master locally
+=======
+Adding a new line remotly
+>>>>>>> ca364afdb1fae970967a3e61f03b178cc11c49af

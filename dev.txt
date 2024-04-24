@@ -1,3 +1,7 @@
 This a file from dev branch
 time stamp 8:49
+<<<<<<< HEAD
 Adding new line from local
+=======
+Adding new line from remote
+>>>>>>> ca364afdb1fae970967a3e61f03b178cc11c49af
